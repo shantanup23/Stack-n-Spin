@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/shantanu/Desktop/aca/Blackjack.cpp" "CMakeFiles/tests.dir/Blackjack.cpp.o" "gcc" "CMakeFiles/tests.dir/Blackjack.cpp.o.d"
-  "/Users/shantanu/Desktop/aca/tests/test_blackjack.cpp" "CMakeFiles/tests.dir/tests/test_blackjack.cpp.o" "gcc" "CMakeFiles/tests.dir/tests/test_blackjack.cpp.o.d"
+  "C:/Users/MAYANK/Stack-n-Spin/aca/Blackjack.cpp" "CMakeFiles/tests.dir/Blackjack.cpp.obj" "gcc" "CMakeFiles/tests.dir/Blackjack.cpp.obj.d"
+  "C:/Users/MAYANK/Stack-n-Spin/aca/tests/test_blackjack.cpp" "CMakeFiles/tests.dir/tests/test_blackjack.cpp.obj" "gcc" "CMakeFiles/tests.dir/tests/test_blackjack.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

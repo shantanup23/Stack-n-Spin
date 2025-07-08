@@ -1,4 +1,4 @@
-/Users/shantanu/Desktop/aca/build/CMakeFiles/casino.dir
-/Users/shantanu/Desktop/aca/build/CMakeFiles/tests.dir
-/Users/shantanu/Desktop/aca/build/CMakeFiles/edit_cache.dir
-/Users/shantanu/Desktop/aca/build/CMakeFiles/rebuild_cache.dir
+C:/Users/MAYANK/Stack-n-Spin/aca/build/CMakeFiles/casino.dir
+C:/Users/MAYANK/Stack-n-Spin/aca/build/CMakeFiles/tests.dir
+C:/Users/MAYANK/Stack-n-Spin/aca/build/CMakeFiles/edit_cache.dir
+C:/Users/MAYANK/Stack-n-Spin/aca/build/CMakeFiles/rebuild_cache.dir
