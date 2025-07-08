@@ -1,9 +1,11 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/tests.dir/Blackjack.cpp.o"
-  "CMakeFiles/tests.dir/Blackjack.cpp.o.d"
-  "CMakeFiles/tests.dir/tests/test_blackjack.cpp.o"
-  "CMakeFiles/tests.dir/tests/test_blackjack.cpp.o.d"
-  "tests"
+  "CMakeFiles/tests.dir/Blackjack.cpp.obj"
+  "CMakeFiles/tests.dir/Blackjack.cpp.obj.d"
+  "CMakeFiles/tests.dir/tests/test_blackjack.cpp.obj"
+  "CMakeFiles/tests.dir/tests/test_blackjack.cpp.obj.d"
+  "libtests.dll.a"
+  "tests.exe"
+  "tests.exe.manifest"
   "tests.pdb"
 )
 

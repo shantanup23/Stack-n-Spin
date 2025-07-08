@@ -7,6 +7,7 @@ add_executable(casino
     main.cpp
     CasinoManager.cpp
     Blackjack.cpp
+    SlotTycoon.cpp
 )
 
 add_executable(tests
