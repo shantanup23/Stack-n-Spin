@@ -2,12 +2,14 @@
 #include <iostream>
 #include "Blackjack.hpp"
 #include "SlotTycoon.hpp"
+#include "Roulette.hpp"
 
 CasinoManager::CasinoManager(const std::string& name, int age, double balance)
     : playerName(name), playerAge(age), playerBalance(balance), initialBalance(balance) {
     // Add available games here
     addGame(std::make_shared<Blackjack>(playerName, playerBalance));
     addGame(std::make_shared<SlotTycoon>(playerName, playerBalance));
+    addGame(std::make_shared<Roulette>(playerName, playerBalance));
 }
 
 void CasinoManager::addGame(const std::shared_ptr<Game>& game) {
@@ -49,6 +51,8 @@ void CasinoManager::start() {
             std::cout << "Thank you for visiting the casino!" << std::endl;
             break;
         }
+         // clear input buffer
+        std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
         games[choice - 1]->play(playerBalance);
     }
 } 

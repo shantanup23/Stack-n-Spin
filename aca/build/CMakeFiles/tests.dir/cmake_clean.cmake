@@ -1,11 +1,14 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/tests.dir/Blackjack.cpp.obj"
-  "CMakeFiles/tests.dir/Blackjack.cpp.obj.d"
-  "CMakeFiles/tests.dir/tests/test_blackjack.cpp.obj"
-  "CMakeFiles/tests.dir/tests/test_blackjack.cpp.obj.d"
-  "libtests.dll.a"
-  "tests.exe"
-  "tests.exe.manifest"
+  "CMakeFiles/tests.dir/link.d"
+  "CMakeFiles/tests.dir/Blackjack.cpp.o"
+  "CMakeFiles/tests.dir/Blackjack.cpp.o.d"
+  "CMakeFiles/tests.dir/Roulette.cpp.o"
+  "CMakeFiles/tests.dir/Roulette.cpp.o.d"
+  "CMakeFiles/tests.dir/tests/test_blackjack.cpp.o"
+  "CMakeFiles/tests.dir/tests/test_blackjack.cpp.o.d"
+  "CMakeFiles/tests.dir/tests/test_roulette.cpp.o"
+  "CMakeFiles/tests.dir/tests/test_roulette.cpp.o.d"
+  "tests"
   "tests.pdb"
 )
 
