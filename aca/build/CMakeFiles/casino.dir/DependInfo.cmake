@@ -8,10 +8,12 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/MAYANK/Stack-n-Spin/aca/Blackjack.cpp" "CMakeFiles/casino.dir/Blackjack.cpp.obj" "gcc" "CMakeFiles/casino.dir/Blackjack.cpp.obj.d"
-  "C:/Users/MAYANK/Stack-n-Spin/aca/CasinoManager.cpp" "CMakeFiles/casino.dir/CasinoManager.cpp.obj" "gcc" "CMakeFiles/casino.dir/CasinoManager.cpp.obj.d"
-  "C:/Users/MAYANK/Stack-n-Spin/aca/SlotTycoon.cpp" "CMakeFiles/casino.dir/SlotTycoon.cpp.obj" "gcc" "CMakeFiles/casino.dir/SlotTycoon.cpp.obj.d"
-  "C:/Users/MAYANK/Stack-n-Spin/aca/main.cpp" "CMakeFiles/casino.dir/main.cpp.obj" "gcc" "CMakeFiles/casino.dir/main.cpp.obj.d"
+  "/home/aryan/Desktop/Stack-n-Spin/aca/Blackjack.cpp" "CMakeFiles/casino.dir/Blackjack.cpp.o" "gcc" "CMakeFiles/casino.dir/Blackjack.cpp.o.d"
+  "/home/aryan/Desktop/Stack-n-Spin/aca/CasinoManager.cpp" "CMakeFiles/casino.dir/CasinoManager.cpp.o" "gcc" "CMakeFiles/casino.dir/CasinoManager.cpp.o.d"
+  "/home/aryan/Desktop/Stack-n-Spin/aca/Roulette.cpp" "CMakeFiles/casino.dir/Roulette.cpp.o" "gcc" "CMakeFiles/casino.dir/Roulette.cpp.o.d"
+  "/home/aryan/Desktop/Stack-n-Spin/aca/SlotTycoon.cpp" "CMakeFiles/casino.dir/SlotTycoon.cpp.o" "gcc" "CMakeFiles/casino.dir/SlotTycoon.cpp.o.d"
+  "/home/aryan/Desktop/Stack-n-Spin/aca/main.cpp" "CMakeFiles/casino.dir/main.cpp.o" "gcc" "CMakeFiles/casino.dir/main.cpp.o.d"
+  "" "casino" "gcc" "CMakeFiles/casino.dir/link.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

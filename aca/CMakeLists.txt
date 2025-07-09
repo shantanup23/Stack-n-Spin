@@ -8,9 +8,13 @@ add_executable(casino
     CasinoManager.cpp
     Blackjack.cpp
     SlotTycoon.cpp
+    Roulette.cpp  
 )
 
 add_executable(tests
     tests/test_blackjack.cpp
+    tests/test_roulette.cpp 
     Blackjack.cpp
+    Roulette.cpp
+    
 ) 
