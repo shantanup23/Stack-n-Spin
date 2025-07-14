@@ -2,6 +2,8 @@
 #include <iostream>
 #include <random>
 #include <algorithm>
+#include "Card.hpp"
+
 
 Blackjack::Blackjack(const std::string& name, double balance)
     : playerName(name), initialBalance(balance) {}
