@@ -8,9 +8,12 @@ add_executable(casino
     CasinoManager.cpp
     Blackjack.cpp
     SlotTycoon.cpp
+    Highstakes.cpp
 )
 
 add_executable(tests
     tests/test_blackjack.cpp
     Blackjack.cpp
+    tests/test_highstakes.cpp
+    Highstakes.cpp
 ) 

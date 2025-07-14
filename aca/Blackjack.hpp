@@ -2,11 +2,9 @@
 #include "Game.hpp"
 #include <string>
 #include <vector>
+#include "Card.hpp"
 
-struct Card {
-    std::string rank;
-    std::string suit;
-};
+
 
 class Blackjack : public Game {
 public:
