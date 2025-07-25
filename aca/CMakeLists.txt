@@ -10,6 +10,7 @@ add_executable(casino
     SlotTycoon.cpp
     Highstakes.cpp
     ThreeCardPoker.cpp
+    dicerollduel.cpp
 )
 
 add_executable(tests

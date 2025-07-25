@@ -1,4 +1,0 @@
-C:/Users/gvssr/Stack-n-Spin-new/build/CMakeFiles/casino.dir
-C:/Users/gvssr/Stack-n-Spin-new/build/CMakeFiles/tests.dir
-C:/Users/gvssr/Stack-n-Spin-new/build/CMakeFiles/edit_cache.dir
-C:/Users/gvssr/Stack-n-Spin-new/build/CMakeFiles/rebuild_cache.dir
