@@ -4,13 +4,15 @@
 #include "SlotTycoon.hpp"
 #include "Highstakes.hpp"
 #include "ThreeCardPoker.hpp"
+#include "dicerollduel.hpp"
 CasinoManager::CasinoManager(const std::string& name, int age, double balance)
     : playerName(name), playerAge(age), playerBalance(balance), initialBalance(balance) {
     // Add available games here
     addGame(std::make_shared<Blackjack>(playerName, playerBalance));
     addGame(std::make_shared<SlotTycoon>(playerName, playerBalance));
     addGame(std::make_shared<Highstakes>(playerName,playerBalance));
-    addGame(std::make_shared<ThreeCardPoker>(playerName, playerBalance));    
+    addGame(std::make_shared<ThreeCardPoker>(playerName, playerBalance));
+    addGame(std::make_shared<dicerollduel>(playerName, playerBalance));    
 }
 
 void CasinoManager::addGame(const std::shared_ptr<Game>& game) {
